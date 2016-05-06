@@ -1,0 +1,2 @@
+# goldwise
+my talent
