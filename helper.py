@@ -19,7 +19,7 @@ def get_symbols_path():
 
 	Config = configparser.ConfigParser()
 
-        Config.read("goldenwise.ini")
+	Config.read("goldenwise.ini")
 
 	for (each_key, each_val) in Config.items("Path"):
         	if each_key=="symbols":
